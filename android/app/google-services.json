@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "899638437641",
+    "project_id": "taxiapp-c1fc7",
+    "storage_bucket": "taxiapp-c1fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899638437641:android:6533815f1efea544d555d8",
+        "android_client_info": {
+          "package_name": "com.example.logisticx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899638437641-a255nffjj079329gb0teut4trq088m0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOAB78lZVLQOy7o445uS53fSuyyQ4cax8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899638437641-a255nffjj079329gb0teut4trq088m0h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899638437641-8vpejn19hi56v4h3m2rf0171o75h62cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.logisticx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

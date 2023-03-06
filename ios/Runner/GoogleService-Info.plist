@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>899638437641-8vpejn19hi56v4h3m2rf0171o75h62cn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.899638437641-8vpejn19hi56v4h3m2rf0171o75h62cn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDWMaeS6FZsiGG3EpWFZ9959J-Kc6lRgK4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>899638437641</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.logisticx</string>
+	<key>PROJECT_ID</key>
+	<string>taxiapp-c1fc7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>taxiapp-c1fc7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:899638437641:ios:477f7d241853a276d555d8</string>
+</dict>
+</plist>
